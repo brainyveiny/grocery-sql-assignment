@@ -1,0 +1,2 @@
+SELECT * FROM sales 
+WHERE bill_date BETWEEN '2024-02-01' AND '2024-02-02';

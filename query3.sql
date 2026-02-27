@@ -1,0 +1,1 @@
+SELECT * FROM products WHERE price_per_unit > 40;
